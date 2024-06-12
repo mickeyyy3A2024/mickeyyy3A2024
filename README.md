@@ -12,4 +12,4 @@ Meu nome é Izabelle Eduarda
 
 mickeyyy3A2024
 
-![](**https://media1.tenor.com/m/ulQhUH0ncoMAAAAC/thumbs-up-wink.gif**)
+![](https://media1.tenor.com/m/ulQhUH0ncoMAAAAC/thumbs-up-wink.gif)
