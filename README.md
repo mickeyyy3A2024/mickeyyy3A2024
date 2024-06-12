@@ -2,7 +2,7 @@
 
 Meu nome é Izabelle Eduarda
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.lura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
